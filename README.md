@@ -1,55 +1,75 @@
-# Welcome to My GitHub Profile!
+# 🌟 Welcome to My GitHub Profile!
 
-## About Me
+## Hey there! 👋
 
-Hello! I'm Shubham Jain, a highly experienced and versatile Sr. iOS/Android Developer with over 11 years in the field. I specialize in mobile application and game development using cutting-edge technologies like Android (Java, Kotlin, Swift & Flutter) and Unity3D. I have a proven track record of delivering high-quality products and contributing to the success of my clients.
+I'm **Shubham Jain**, a **Sr. iOS/Android Developer** and **Flutter/Flutter Flow Specialist** with over 11 years of experience in building top-notch mobile applications and games. I am passionate about using the latest technologies to solve real-world problems and create impactful solutions.
 
 ---
 
-## 🌟 Skills & Expertise
+## 🚀 About Me
 
-### 🚀 Programming Languages
+- **💼 100% Job Success** on Upwork
+- **⏳ 11+ years of experience**
+- **💰 $10M+ funding raised by clients**
+- **📱 20+ completed jobs**
+- **📈 5M+ app downloads**
+- **🚀 20+ published apps**
+- **🔧 25% productivity increase using GitHub CoPilot and ChatGPT**
+
+---
+
+## 🛠️ My Skills
+
+### 📱 Mobile App Development
+- **iOS Development** (Swift, Objective-C)
+- **Android Development** (Java, Kotlin)
+- **Flutter Development**
+
+### 🎮 Game Development
+- **Unity3D**
+- **Roblox**
+
+### 💻 Programming Languages
 - **Java**
 - **Kotlin**
 - **Swift**
 - **Flutter**
-- **Unity3D**
-
-### 📱 Mobile & Game Development
-- **iOS Development**
-- **Android Development**
-- **Flutter Development**
-- **Game Development with Unity and Roblox**
-
-### 🛠️ Services I Offer
-- **Mobile App Development (iOS/Android/Flutter)**
-- **Game Development (Unity, Roblox)**
-- **Testing & Support**
 
 ### 🔧 Tools & Technologies
 - **Version Control**: Git, GitHub
-- **Productivity Tools**: GitHub CoPilot, ChatGPT
 - **IDEs**: Android Studio, Xcode, IntelliJ IDEA
-
-### 📚 Expertise Across Industries
-- **Healthcare & Medical**
-- **Insurance**
-- **FinTech**
-- **Education**
-- **Real Estate**
-- **Travel & Tourism**
+- **Productivity Tools**: GitHub CoPilot, ChatGPT
 
 ---
 
-## 📈 Achievements
-- **100% Job Success** on Upwork
-- **11+ years of experience**
-- **$10M+ funding raised by clients**
-- **20+ completed jobs**
-- **5M+ app downloads**
-- **20+ published apps**
-- **25% productivity increase using GitHub CoPilot and ChatGPT**
-- Among the **top 3% of mobile application developers** on Upwork
+## 🌟 Services I Offer
+
+- **📱 Mobile App Development (iOS/Android/Flutter)**
+- **🎮 Game Development (Unity, Roblox)**
+- **🪛 Testing & Support**
+- **✅ Planning and implementing app architecture and features**
+- **✅ Writing apps from scratch to App Store deployment and support**
+- **✅ Server backend API and Web admin panel development**
+- **✅ Code Review, fixing, and supporting existing apps**
+
+---
+
+## 🏆 Achievements
+
+- **Among the top 3%** of mobile application developers on Upwork!
+- **$10M+ funding** raised by my clients
+- **5M+ app downloads** from projects I've worked on
+
+---
+
+## 🌍 Industries I've Worked In
+
+- **🏥 Healthcare & Medical**
+- **🏛️ Insurance**
+- **🚀 FinTech**
+- **📚 Education**
+- **🏙️ Real Estate**
+- **✈️ Travel & Tourism**
 
 ---
 
@@ -57,8 +77,8 @@ Hello! I'm Shubham Jain, a highly experienced and versatile Sr. iOS/Android Deve
 
 Feel free to reach out to me for any collaboration or queries!
 
-- **Email**: (mailto:shubham253@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/er-shubham-jain/)
+- **📧 Email**: [shubham253@gmail.com](mailto:shubham253@gmail.com)
+- **🔗 LinkedIn**: [Shubham Jain](https://www.linkedin.com/in/er-shubham-jain/)
 
 ---
 
