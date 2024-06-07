@@ -91,7 +91,7 @@ Feel free to reach out to me for any collaboration or queries!
 
 ### 💬 Free Consultation
 
-My consultation is **FREE**. Let's schedule an introductory call and discover the possibilities of working together. Even if we don't work together, you will get some tips/ideas that can be helpful to your project. Just click on the 'Invite to Job' button and experience it yourself. 🙌
+My consultation is **FREE**. Let's schedule an introductory call and discover the possibilities of working together. Even if we don't work together, you will get some tips/ideas that can be helpful to your project. 🙌
 
 ---
 
