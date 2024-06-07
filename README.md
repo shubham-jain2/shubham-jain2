@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Header](https://media.licdn.com/dms/image/D5635AQEp8viDFaI0DQ/profile-framedphoto-shrink_400_400/0/1708060390290?e=1718362800&v=beta&t=WuzX1Dy58XKZ59Ct4snc479o_PiAvlNM8JN2Sb3ACV0)
-
 ## About Me
 
 Hello! I'm Shubham Jain, a highly experienced and versatile Sr. iOS/Android Developer with over 11 years in the field. I specialize in mobile application and game development using cutting-edge technologies like Android (Java, Kotlin, Swift & Flutter) and Unity3D. I have a proven track record of delivering high-quality products and contributing to the success of my clients.
@@ -55,14 +53,6 @@ Hello! I'm Shubham Jain, a highly experienced and versatile Sr. iOS/Android Deve
 
 ---
 
-## 💬 Client Testimonials
-
-⭐⭐⭐⭐⭐ "Shubham was an asset to our team. He communicated and contributed well. Every task was completed in time and of high quality. Highly recommend."
-
-⭐⭐⭐⭐⭐ "Amazing freelancer. We will continue to work with them. This project ended, so we are doing up another project offer for them to work with us on."
-
----
-
 ## 📫 Get in Touch
 
 Feel free to reach out to me for any collaboration or queries!
@@ -82,8 +72,6 @@ Feel free to reach out to me for any collaboration or queries!
 ### 💬 Free Consultation
 
 My consultation is **FREE**. Let's schedule an introductory call and discover the possibilities of working together. Even if we don't work together, you will get some tips/ideas that can be helpful to your project. Just click on the 'Invite to Job' button and experience it yourself. 🙌
-
-![Footer](https://your-footer-image-url.com)
 
 ---
 
